@@ -1,2 +1,2 @@
 # Generator
-My first proect 
+My first project 
